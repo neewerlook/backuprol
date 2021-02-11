@@ -1,0 +1,17 @@
+{
+  "name": "striga-rguard",
+  "version": "0.0.1",
+  "description": "striga RGuard Bot",
+  "main": "striga.js",
+  "scripts": {
+    "test": "node striga.js"
+  },
+  "author": "striga",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.20"
+  },
+  "keywords": []
+}
